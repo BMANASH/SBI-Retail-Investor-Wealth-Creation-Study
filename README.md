@@ -4,7 +4,7 @@
 **Co-Author & Institutional Guide:** Bikash Kalita (Assistant Professor, Don Bosco Institute of Management)[cite: 2]  
 **Organizational Mentor:** Mr. Nipon Das (Manager / Faculty, SBILD Guwahati)[cite: 1]  
 **Signing Authority:** Satish Kumar Sharma (Deputy General Manager & CDO, State Bank of India, Local Head Office Guwahati)  
-**Host Institution:** State Bank Institute of Learning and Development (SBILD Guwahati), State Bank of India (SBI)[cite: 1, 3]  
+**Host Institution:** State Bank Institute of Learning and Development (SBILD Guwahati), State Bank of India (SBI) 
 
 [![Peer-Reviewed Publication](https://img.shields.io/badge/Published-Journal_of_Management_in_Practice_(May_2026)-1F3864?style=for-the-badge)](Journal_of_Management_in_Practice_May_2026)
 [![ISSN](https://img.shields.io/badge/ISSN-2456--1509-blue?style=for-the-badge)](2456-1509)
