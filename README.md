@@ -1,9 +1,13 @@
 # Wealth Creation through Strategic Investment Opportunities — An Empirical Study on Retail Investor Behavior & Capital Allocation
 
-**Primary Researcher:** Manash Boro (MBA Candidate, Specialization: Finance & Marketing, Don Bosco Institute of Management)  
-**Co-Author & Institutional Guide:** Bikash Kalita (Assistant Professor, Don Bosco Institute of Management)  
+**Primary Researcher:** Manash Boro (MBA Candidate, Specialization: Finance & Marketing, Don Bosco Institute of Management)
+
+**Co-Author & Institutional Guide:** Bikash Kalita (Assistant Professor, Don Bosco Institute of Management) 
+
 **Organizational Mentor:** Mr. Nipon Das (Manager / Faculty, SBILD Guwahati)  
-**Signing Authority:** Satish Kumar Sharma (Deputy General Manager & CDO, State Bank of India, Local Head Office Guwahati)  
+
+**Signing Authority:** Satish Kumar Sharma (Deputy General Manager & CDO, State Bank of India, Local Head Office Guwahati) 
+
 **Host Institution:** State Bank Institute of Learning and Development (SBILD Guwahati), State Bank of India (SBI)  
 
 [![Peer-Reviewed Publication](https://img.shields.io/badge/Published-Journal_of_Management_in_Practice_(May_2026)-1F3864?style=for-the-badge)](Journal_of_Management_in_Practice_May_2026)
