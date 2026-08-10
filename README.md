@@ -1,14 +1,10 @@
 # Wealth Creation through Strategic Investment Opportunities — An Empirical Study on Retail Investor Behavior & Capital Allocation
 
 **Primary Researcher:** Manash Boro (MBA Candidate, Specialization: Finance & Marketing, Don Bosco Institute of Management)  
-
-**Co-Author & Institutional Guide:** Bikash Kalita (Assistant Professor, Don Bosco Institute of Management) 
-
-**Organizational Mentor:** Mr. Nipon Das (Manager / Faculty, SBILD Guwahati) 
-
+**Co-Author & Institutional Guide:** Bikash Kalita (Assistant Professor, Don Bosco Institute of Management)  
+**Organizational Mentor:** Mr. Nipon Das (Manager / Faculty, SBILD Guwahati)  
 **Signing Authority:** Satish Kumar Sharma (Deputy General Manager & CDO, State Bank of India, Local Head Office Guwahati)  
-
-**Host Institution:** State Bank Institute of Learning and Development (SBILD Guwahati), State Bank of India (SBI) 
+**Host Institution:** State Bank Institute of Learning and Development (SBILD Guwahati), State Bank of India (SBI)  
 
 [![Peer-Reviewed Publication](https://img.shields.io/badge/Published-Journal_of_Management_in_Practice_(May_2026)-1F3864?style=for-the-badge)](Journal_of_Management_in_Practice_May_2026)
 [![ISSN](https://img.shields.io/badge/ISSN-2456--1509-blue?style=for-the-badge)](2456-1509)
@@ -20,7 +16,7 @@
 
 Conducted over an 8-week research internship at the **State Bank Institute of Learning and Development (SBILD Guwahati)**, State Bank of India, this study investigates wealth creation behavior, risk tolerance, planning discipline, and digital platform adoption among individual retail investors ($N = 200$) in Guwahati, Assam. 
 
-This project evaluated how psychological and behavioral traits interact with capital allocation choices[cite: 2]. The empirical findings were subsequently peer-reviewed and published in the ***Journal of Management in Practice* (Vol. 11, No. 1, May 15, 2026, ISSN: 2456-1509)**.
+This project evaluated how psychological and behavioral traits interact with capital allocation choices. The empirical findings were subsequently peer-reviewed and published in the ***Journal of Management in Practice* (Vol. 11, No. 1, May 15, 2026, ISSN: 2456-1509)**.
 
 ---
 
@@ -90,3 +86,19 @@ $$\chi^2 = \sum \frac{(O_i - E_i)^2}{E_i}$$
 ---
 
 ## Repository Contents
+
+```text
+├── build_sbi_research_dataset.py       # Excel workbook builder script
+├── sbi_wealth_research_analysis.py    # Statistical pipeline & charting script
+├── SBI_Retail_Investor_Research_Dataset.xlsx
+│   ├── Executive_Dashboard            # Dynamic KPI summary cards
+│   ├── Cronbach_Alpha_Calculations    # Worked item variance formulas
+│   ├── Chi_Square_Hypothesis_Tests    # Contingency matrices & test statistics
+│   └── Survey_Responses_Cleaned       # 200 anonymized survey rows
+├── chart1_asset_preference.png
+├── chart2_income_distribution.png
+├── chart3_chi_square_summary.png
+├── Documentation/
+│   ├── SBI_internship_Certificate.pdf # Official SBI LHO Certificate
+│   └── Research_Publication_JoMP.pdf  # Published Journal Paper (May 2026)
+└── README.md
